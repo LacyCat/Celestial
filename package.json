@@ -1,0 +1,29 @@
+{
+  "name": "celestial",
+  "displayName": "Celestial",
+  "description": "Celestial Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Celestial",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Celestial-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+	"name": "LacyCat",
+	"email": "lacycat1807@gmail.com"
+  },
+  "repository": {
+	"type": "git",
+	"url": ""
+  }
+}
